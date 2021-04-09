@@ -2,7 +2,7 @@ from tkinter import *
 import urllib.request
 
 import json
-key="AIzaSyCLHj086Qe-4bCPp8Vyw7RFZeK6SsdMOSA"
+key= ""  # <------Insert Your Google API key here######### #
 
 def channel_data():
     name=e1.get()
